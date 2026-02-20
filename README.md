@@ -103,6 +103,4 @@ void loop() {
 Pavithra Ravula
 B.Tech – Electronics and Instrumentation Engineering
 
----
 
-This version is clean, professional, and suitable for internship applications.
