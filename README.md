@@ -1,6 +1,3 @@
-# Automatic-Hand-Sanitizer-Dispenser-using-Arduino-and-Ultrasonic-Sensor
-An Arduino-based touch-free automatic hand sanitizer dispenser that detects hand presence using an ultrasonic sensor and activates a pump mechanism for hygienic sanitizer dispensing.
-
 # Automatic Hand Sanitizer Dispenser using Arduino and Ultrasonic Sensor
 
 Automatic hand sanitizer dispenser developed using Arduino, an ultrasonic sensor (HC-SR04), and a servo motor. The system detects the presence of a hand and automatically actuates the sanitizer lever without physical contact.
